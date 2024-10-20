@@ -6,7 +6,6 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <div>
-      123
       <NxWelcome title="myreactapp" />
     </div>
   );
